@@ -17,8 +17,10 @@ This is a quick guide of how to get set up and running a robust real-time facial
 # Dependencies
 This code was working properly on tensroflow 2.3.0.
 by: 
-   HAMZAOUI Thameur
-   OMARI Hamza
+  1. HAMZAOUI Thameur
+  2. OMARI Hamza
+  3. HADAD SARAH
+  4. SARAH
 ```
 Tensorflow 2.X
 numpy
