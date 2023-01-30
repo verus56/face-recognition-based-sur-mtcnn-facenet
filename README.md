@@ -2,7 +2,6 @@
 
 Ce projet vise à développer une application de reconnaissance faciale en utilisant les librairies MTCNN et Facenet. MTCNN est utilisé pour détecter les visages dans les images, tandis que Facenet est utilisé pour encoder les visages détectés en un vecteur unique qui peut être comparé à d'autres vecteurs pour effectuer la reconnaissance faciale.
 
-![Alt Text](MEDIA/md.PNG) <br>
 ## Prérequis
 
 Avant de pouvoir exécuter ce projet, vous devez avoir installé les packages suivants:
@@ -34,6 +33,8 @@ Lorsqu'une image est soumise pour la reconnaissance faciale, le même processus 
 ## Conclusion
 
 Ce projet vous montre comment utiliser les librairies MTCNN et Facenet pour développer une application de reconnaissance faciale simple. Vous pouvez utiliser ce code en tant que base pour construire une application plus complexe ou l'adapter à vos besoins.
+
+![Alt Text](MEDIA/md.PNG) <br>
 
 by: 
   1. HAMZAOUI Thameur
