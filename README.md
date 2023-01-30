@@ -12,7 +12,7 @@ mtcnn
 keras
 opencv
 scikit-learn
-Exécution
+## Exécution
 
 Pour exécuter ce projet, vous pouvez cloner ce dépôt sur votre machine locale en utilisant la commande suivante:
 ```
