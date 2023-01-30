@@ -29,7 +29,7 @@ Lorsque l'application démarre, elle utilise MTCNN pour détecter les visages da
 
 Lorsqu'une image est soumise pour la reconnaissance faciale, le même processus de détection de visage et d'encodage est effectué sur l'image soumise. Le vecteur obtenu est ensuite comparé à chaque vecteur dans la base de données de reconnaissance faciale pour trouver le visage le plus proche.
 
-#Conclusion
+# Conclusion
 
 Ce projet vous montre comment utiliser les librairies MTCNN et Facenet pour développer une application de reconnaissance faciale simple. Vous pouvez utiliser ce code en tant que base pour construire une application plus complexe ou l'adapter à vos besoins.
 
