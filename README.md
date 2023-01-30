@@ -24,6 +24,7 @@ python main.py
 ```
 L'application démarrera et vous pourrez commencer à utiliser la reconnaissance faciale en ajoutant des images de personnes à la base de données de reconnaissance faciale.
 
+![Alt Text](MEDIA/md.PNG) <br>
 ## Fonctionnement interne
 
 Lorsque l'application démarre, elle utilise MTCNN pour détecter les visages dans les images de la base de données de reconnaissance faciale. Les visages détectés sont ensuite encodés en utilisant Facenet pour produire un vecteur unique qui représente chaque personne.
@@ -33,8 +34,6 @@ Lorsqu'une image est soumise pour la reconnaissance faciale, le même processus 
 ## Conclusion
 
 Ce projet vous montre comment utiliser les librairies MTCNN et Facenet pour développer une application de reconnaissance faciale simple. Vous pouvez utiliser ce code en tant que base pour construire une application plus complexe ou l'adapter à vos besoins.
-
-![Alt Text](MEDIA/md.PNG) <br>
 
 by: 
   1. HAMZAOUI Thameur
