@@ -1,10 +1,10 @@
-# Face Recognition basé sur MTCNN et Facenet
+# Face Recognition based on MTCNN and Facenet
 
-Ce projet vise à développer une application de reconnaissance faciale en utilisant les librairies MTCNN et Facenet. MTCNN est utilisé pour détecter les visages dans les images, tandis que Facenet est utilisé pour encoder les visages détectés en un vecteur unique qui peut être comparé à d'autres vecteurs pour effectuer la reconnaissance faciale.
+This project aims to develop a face recognition application using the MTCNN and Facenet libraries. MTCNN is used to detect faces in images, while Facenet is used to encode the detected faces into a unique vector that can be compared to other vectors for performing face recognition.
 
-## Prérequis
+## Prerequisites
 
-Avant de pouvoir exécuter ce projet, vous devez avoir installé les packages suivants:
+Before you can run this project, you must have the following packages installed:
 ```
 tensorflow
 mtcnn
@@ -12,28 +12,28 @@ keras
 opencv
 scikit-learn
 ```
-## Exécution
+## Execution
 
-Pour exécuter ce projet, vous pouvez cloner ce dépôt sur votre machine locale en utilisant la commande suivante:
+To run this project, you can clone this repository to your local machine using the following command:
 ```
 git clone https://github.com/verus56/face-recognition-based-sur-mtcnn-facenet.git
 ```
-Une fois cloné, vous pouvez exécuter le fichier principal main.py en utilisant la commande suivante:
+Once cloned, you can run the main file main.py using the following command:
 ```
 python main.py
 ```
-L'application démarrera et vous pourrez commencer à utiliser la reconnaissance faciale en ajoutant des images de personnes à la base de données de reconnaissance faciale.
+The application will start and you will be able to start using face recognition by adding images of people to the face recognition database.
 
 ![Alt Text](MEDIA/md.PNG) <br>
-## Fonctionnement interne
+## Internal functioning
 
-Lorsque l'application démarre, elle utilise MTCNN pour détecter les visages dans les images de la base de données de reconnaissance faciale. Les visages détectés sont ensuite encodés en utilisant Facenet pour produire un vecteur unique qui représente chaque personne.
+When the application starts, it uses MTCNN to detect faces in the images in the face recognition database. The detected faces are then encoded using Facenet to produce a unique vector that represents each person.
 
-Lorsqu'une image est soumise pour la reconnaissance faciale, le même processus de détection de visage et d'encodage est effectué sur l'image soumise. Le vecteur obtenu est ensuite comparé à chaque vecteur dans la base de données de reconnaissance faciale pour trouver le visage le plus proche.
+When an image is submitted for face recognition, the same face detection and encoding process is performed on the submitted image. The resulting vector is then compared to each vector in the face recognition database to find the closest face.
 
 ## Conclusion
 
-Ce projet vous montre comment utiliser les librairies MTCNN et Facenet pour développer une application de reconnaissance faciale simple. Vous pouvez utiliser ce code en tant que base pour construire une application plus complexe ou l'adapter à vos besoins.
+This project shows you how to use the MTCNN and Facenet libraries to develop a simple face recognition application. You can use this code as a base to build a more complex application or adapt it to your needs.
 
 by: 
   1. HAMZAOUI Thameur
