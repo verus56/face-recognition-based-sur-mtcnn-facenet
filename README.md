@@ -24,7 +24,6 @@ python main.py
 ```
 The application will start and you will be able to start using face recognition by adding images of people to the face recognition database.
 
-![Alt Text](MEDIA/md.PNG) <br>
 ## Internal functioning
 
 When the application starts, it uses MTCNN to detect faces in the images in the face recognition database. The detected faces are then encoded using Facenet to produce a unique vector that represents each person.
