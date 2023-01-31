@@ -36,8 +36,10 @@ This project shows you how to use the MTCNN and Facenet libraries to develop a s
 
 ## Resources
 
-#### Report: https://docs.google.com/document/d/1qUyRCTYTMTFNUmzSWFhkliT4pCzB6jjhc4pN74gVn50/edit?usp=sharing
-#### Presentation: https://www.canva.com/design/DAFVO0BOhDQ/-aJzte6I3DqJtJX14fWbyw/view?utm_content=DAFVO0BOhDQ&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+#### Report: 
+https://docs.google.com/document/d/1qUyRCTYTMTFNUmzSWFhkliT4pCzB6jjhc4pN74gVn50/edit?usp=sharing
+#### Presentation: 
+https://www.canva.com/design/DAFVO0BOhDQ/-aJzte6I3DqJtJX14fWbyw/view?utm_content=DAFVO0BOhDQ&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 
 #### by: 
 ```
