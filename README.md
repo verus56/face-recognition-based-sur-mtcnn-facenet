@@ -35,6 +35,9 @@ When an image is submitted for face recognition, the same face detection and enc
 
 This project shows you how to use the MTCNN and Facenet libraries to develop a simple face recognition application. You can use this code as a base to build a more complex application or adapt it to your needs.
 
+## Resources
+# Report: https://docs.google.com/document/d/1qUyRCTYTMTFNUmzSWFhkliT4pCzB6jjhc4pN74gVn50/edit?usp=sharing
+# Presentation:
 by: 
   1. HAMZAOUI Thameur
   2. OMARI Hamza
